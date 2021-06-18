@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website 
-https://lernantino.github.io/run-buddy/ 
+https://codenameabel.github.io/run-buddy/
 
 ## Construction 
 Made with ❤️ by Abel Martinez
